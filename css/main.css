@@ -518,8 +518,12 @@ pre code.hljs {
   .page-content .page .book {
     max-width: 120px;
     margin: auto;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.0em;
     box-shadow: 5px 5px 5px 2px #888888; }
+  .page-content .page .pics {
+    max-width: 120px;
+    margin: auto;
+    padding-bottom: 0.0em; }
   .page-content .page .about {
     max-width: 320px;
     margin: auto;
