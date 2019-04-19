@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/papers/</loc>
-<lastmod>2019-04-19T09:35:11-04:00</lastmod>
+<lastmod>2019-04-19T09:48:40-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
@@ -45,6 +45,10 @@
 <lastmod>2014-04-20T17:01:30-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/STEP_seminar_dec2017.pdf</loc>
+<lastmod>2017-12-01T12:05:36-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/es403446m_proof.pdf</loc>
 <lastmod>2014-08-06T16:32:19-04:00</lastmod>
 </url>
@@ -57,8 +61,16 @@
 <lastmod>2013-06-15T23:39:27-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/rasmussen%20AGU%202017.pdf</loc>
+<lastmod>2017-12-14T13:58:51-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/rasmussen_AGU2015_v2_flat.pdf</loc>
 <lastmod>2015-12-18T17:35:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/rasmussen_cee460_final.pdf</loc>
+<lastmod>2016-05-09T21:12:06-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/rasmussenetal_2012.pdf</loc>
