@@ -646,3 +646,60 @@ pre code.hljs {
     width: 48.93617%;
     float: right;
     margin-right: 0; }
+
+.header--video .header__banner {
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  height: 12.5rem; }
+
+@media screen and (min-width: 30em) {
+  .header--video .header__banner {
+    height: 15.625rem; } }
+@media screen and (min-width: 48em) {
+  .header--video .header__banner {
+    height: 21.875rem; } }
+@media screen and (min-width: 60em) {
+  .header--video .header__banner {
+    height: 28.125rem; } }
+@media screen and (min-width: 80em) {
+  .header--video .header__banner {
+    height: 34.375rem; } }
+.header__banner-image {
+  max-width: none;
+  width: 100%;
+  height: auto;
+  position: absolute; }
+
+@media screen and (max-width: 64em) {
+  .header__banner-image {
+    top: 0;
+    -webkit-transform: translate3d(0, 0, 0) !important;
+    transform: translate3d(0, 0, 0) !important; } }
+.header__banner-video {
+  max-width: none;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0; }
+
+@media screen and (min-width: 48em) {
+  .header__banner-video {
+    top: -6.25rem; } }
+.header__banner-video::-webkit-media-controls-start-playback-button {
+  display: none !important;
+  -webkit-appearance: none; }
+
+.header__content-container {
+  position: relative;
+  z-index: 20;
+  margin: -1.875rem auto 0 auto;
+  max-width: 80em;
+  padding: 0 0 0 1rem; }
+
+@media screen and (min-width: 30em) {
+  .header__content-container {
+    margin-top: -2.8125rem; } }
+@media screen and (min-width: 48em) {
+  .header__content-container {
+    margin-top: -7.8125rem; } }
