@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D.J. Rasmussen, PhD</title>
-    <description>DJ Rasmussen studies coastal floods and sea-level rise at Princeton University</description>
+    <description>DJ Rasmussen consults and researches physical climate risk and resilience approaches</description>
     <link>http://www.djrasmussen.co//</link>
     <atom:link href="http://www.djrasmussen.co//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Nov 2021 16:05:28 -0700</pubDate>
-    <lastBuildDate>Thu, 04 Nov 2021 16:05:28 -0700</lastBuildDate>
+    <pubDate>Mon, 20 Dec 2021 14:31:26 -0800</pubDate>
+    <lastBuildDate>Mon, 20 Dec 2021 14:31:26 -0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
   </channel>
